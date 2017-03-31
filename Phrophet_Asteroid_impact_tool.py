@@ -26,6 +26,19 @@ type(df['ds'][0])
 #------------------------------#
 m = Prophet()
 m.fit(df)
+
+
+#Select the days to make a new dataframe
+future = model.make_future_dataframe(periods=50)
+
+#This is the prediction, literally speaking 
+forecast = m.predict(future)
+forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].tail()
+
+#Plot the results 
+%matplotlib inline
+c = m.plot(forecast);
+
+#Plot the components
+m.plot_components(forecast);
 #------------------------------#
-
-
