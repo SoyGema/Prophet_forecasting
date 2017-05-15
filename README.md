@@ -1,5 +1,6 @@
 # Prophet_forecasting
 Facebook Opensource generates dataframes. This dataframe generation tool is based on forecasting. 
+It predicts timeseries. 
 Acording to the documentation , phrophet shines in : 
 
 
