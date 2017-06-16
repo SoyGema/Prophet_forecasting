@@ -1,11 +1,18 @@
 # Prophet_forecasting
 Facebook Opensource generates dataframes. This dataframe generation tool is based on forecasting. 
-It predicts timeseries. 
-Acording to the documentation , phrophet shines in : 
+V2.![alt tag](https://github.com/SoyGema/Prophet_forecasting/blob/master/v2/Asteroids.png)
+Acording to new analysis taking into account EMoid and dates , Asteroids are coming nearest earth 
+Find the notebook at V2 folder 
 
 
-   1.hourly, daily, or weekly observations with at least a few months (preferably a year) of history
-   2.strong multiple “human-scale” seasonalities: day of week and time of year
+
+
+#It predicts timeseries. 
+#Acording to the documentation , phrophet shines in : 
+
+
+  ## 1.hourly, daily, or weekly observations with at least a few months (preferably a year) of history
+  ## 2.strong multiple “human-scale” seasonalities: day of week and time of year
    3.important holidays that occur at irregular intervals that are known in advance (e.g. the Super Bowl)
    4.a reasonable number of missing observations or large outliers
    5.historical trend changes, for instance due to product launches or logging changes
