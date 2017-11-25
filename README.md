@@ -3,7 +3,18 @@ Prophet is an opensource project leaded by facebook that allows to make timeseri
 https://facebook.github.io/prophet/
 Facebook Opensource generates dataframes. This dataframe generation tool is based on forecasting. 
 The following graphs shows E-Moid distribution in a time series that goes since first Asteroids registered 
-V2.![alt tag](https://github.com/SoyGema/Prophet_forecasting/blob/master/v2/Asteroids.png)
+V2.
+Prediction with data from 1937 to 2017
+
+![alt tag](https://github.com/SoyGema/Prophet_forecasting/blob/master/v2/Asteroids.png)
+
+Prediction with data from 1997 to 2017
+
+![alt tag](https://github.com/SoyGema/Prophet_forecasting/blob/master/images/descarga%20(1).png)
+
+Prediction with data from 2017
+
+![alt tag](https://github.com/SoyGema/Prophet_forecasting/blob/master/images/descarga%20(2).png)
 
 Acording to new analysis taking into account EMoid and dates , Asteroids are coming nearest earth 
 Find the notebook at V2 folder 
