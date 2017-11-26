@@ -1,9 +1,12 @@
 # Asteroid detection with Prophet forecasting
-Prophet is an opensource project leaded by facebook that allows to make timeseries predictions . For more information visit 
-https://facebook.github.io/prophet/
-Facebook Opensource generates dataframes. This dataframe generation tool is based on forecasting. 
+Prophet is an opensource project leaded by facebook that allows to make timeseries predictions .
+For more information visit https://facebook.github.io/prophet/
+
+Facebook Opensource generates dataframes and graphics .
+
 The following graphs shows E-Moid distribution in a time series that goes since first Asteroids registered 
-V2.
+V2 and V3. The code is developed in jupyter notebooks and show results regarding forecasting for 10 and 1 year, and 6 months. 
+
 Prediction with data from 1937 to 2017
 
 ![alt tag](https://github.com/SoyGema/Prophet_forecasting/blob/master/v2/Asteroids.png)
@@ -47,7 +50,10 @@ Find bellow the plotted results of the experiment
 
 ds > referes to the timeframe
 
-y > refers to the astronomical units of distance 
+y > refers to the astronomical units of distance -Emoid- 
 
-![alt tag](https://github.com/SoyGema/Prophet_forecasting/blob/master/forecasting.png)
-![alt tag](https://github.com/SoyGema/Prophet_forecasting/blob/master/forecasting2.png)
+# Facebookdevcircles event in Madrid 
+
+Find the presentation for Facebookdevcircles talk in Madrid november 29th at Facebookdevcircles.ppt
+
+
