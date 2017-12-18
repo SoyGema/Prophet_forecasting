@@ -1,6 +1,10 @@
+
+ ![alt tag](https://github.com/SoyGema/Prophet_forecasting/blob/master/images/prophet-logo-dribbble_1x.png)
+
+
 # Asteroid detection with Prophet forecasting
 Prophet is an opensource project leaded by facebook that allows to make timeseries predictions .
-For more information visit https://facebook.github.io/prophet/
+For more information visit https://facebook.github.io/prophet/ and https://research.fb.com/prophet-forecasting-at-scale/
 
 Facebook Opensource generates dataframes and graphics .
 
