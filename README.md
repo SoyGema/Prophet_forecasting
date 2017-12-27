@@ -3,6 +3,12 @@
 
 
 # Asteroid detection with Prophet forecasting
+
+[![GitHub stars](https://img.shields.io/github/stars/SoyGema/Prophet_forecasting.svg)](https://github.com/SoyGema/Prophet_forecasting/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SoyGema/Prophet_forecasting.svg)](https://github.com/SoyGema/Prophet_forecasting/network)
+[![GitHub issues](https://img.shields.io/github/issues/SoyGema/Prophet_forecasting.svg)](https://github.com/SoyGema/Prophet_forecasting/issues)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/SoyGema/Prophet_forecasting.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FSoyGema%2FProphet_forecasting)
+
 Prophet is an opensource project leaded by facebook that allows to make timeseries predictions .
 For more information visit https://facebook.github.io/prophet/ and https://research.fb.com/prophet-forecasting-at-scale/
 
